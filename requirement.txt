@@ -1,6 +1,5 @@
 streamlit
-scikit-learn=1.6.1
-joblib
 numpy
 pillow
-
+scikit-learn
+pickle
