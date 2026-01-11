@@ -46,10 +46,12 @@ Adjust any file paths inside the notebook or `app.py` to match your `Data/` loca
 - Images are expected as common formats (JPEG/PNG). Preprocessing (resizing, normalization) is handled in the notebook.
 - For larger datasets consider switching from logistic regression to a CNN for better accuracy.
 
+Live Link - https://smile-detection-logistic-regression-1.onrender.com/
 ## Reproducibility
 
 - Seed any random number generators in the notebook before training for reproducible runs.
 - Save trained model artifacts (if produced) to a `models/` folder and document their names in the notebook.
+
 
 
 
