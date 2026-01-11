@@ -13,6 +13,7 @@ This repository demonstrates a simple image classification pipeline for detectin
   - `Data/smile/` — images labeled as smiling
   - `Data/non_smile/` — images labeled as not smiling
   - `Data/test/` — holdout images for quick testing
+  - Dataset link - https://www.kaggle.com/datasets/chazzer/smiling-or-not-face-data
 
 ## Setup
 
@@ -49,5 +50,6 @@ Adjust any file paths inside the notebook or `app.py` to match your `Data/` loca
 
 - Seed any random number generators in the notebook before training for reproducible runs.
 - Save trained model artifacts (if produced) to a `models/` folder and document their names in the notebook.
+
 
 
